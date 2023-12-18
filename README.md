@@ -1,9 +1,11 @@
 # Cat and Dog Image Classifier
-## Cat: 
-![Cat Image]https://pbs.twimg.com/media/F_QzuHsXoAApvjz?format=jpg&name=small
 
-## Dog:
-![Dog Image]https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg
+**Cat:**
+![Cat Image](https://pbs.twimg.com/media/F_QzuHsXoAApvjz?format=jpg&name=small)
+
+**Dog:**
+![Dog Image](https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg)
+
 ## Overview
 
 This Python script implements an image classification model using a Support Vector Machine (SVM) with a Convolutional Neural Network (CNN). The model is trained to distinguish between images of cats and dogs. The project is part of Prodigy Infotech's third task.
