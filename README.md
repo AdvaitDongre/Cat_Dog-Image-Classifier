@@ -44,9 +44,4 @@ This Python script implements an image classification model using a Support Vect
 This project serves as a tutorial on image classification using SVM with CNN. Feel free to modify the code or address any bugs. For questions or improvements, please contact the author.
 
 ## Author
-
-[Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Advait Dongre
